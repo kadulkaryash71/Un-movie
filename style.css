@@ -1,0 +1,158 @@
+* {
+    font-style: Helvetica, Arial;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    position: relative;
+    display:block;
+    background-color: #0f171e;
+    overflow-x: hidden;
+}
+
+nav {
+    position: sticky;
+    flex-wrap: nowrap;
+    top:0;
+    width: 100vw;
+    height:10vh;
+    padding: 1em;
+    background-color:#0f175e;
+    z-index:100;
+    justify-content: space-evenly;
+}
+
+nav ul {
+    display:flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav a:link, span {
+    margin: .5em;
+    padding: 1.5vmin;
+    justify-content: space-between;
+    text-decoration: none;
+    color:white;
+    transition: transform 3s;
+}
+
+nav a:hover, span:hover {
+  color: pink;
+  border-bottom: 1px solid white;
+  border-radius: 2vmin;
+  font-weight: bold;
+  transform: scale(2);
+}
+
+nav.logo {
+    height:100%;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  /* display: none; */
+}
+
+.carousel {
+  margin: 1em;
+  width:95vw;
+  height:auto;
+}
+
+main {
+  position: relative;
+  display: block;
+  margin: 1em;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns:repeat(3, calc(100vw / 4));
+  grid-template-rows: auto auto auto;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.card {
+  position: relative;
+  height: 37vmax;
+  width: auto;
+  margin: .5em;
+  padding: .5em;
+  align-items: center;
+  justify-content: top;
+  background-color: rgb(20, 90, 200);
+  color:whitesmoke;
+  font-size: 1.9vmax;
+  text-align: center;
+  transition: transform 0.5s;
+  overflow: hidden;
+  border-radius: 2vmin;
+}
+.image-container {
+  height: 70%;
+}
+
+.card:hover  {
+  display: flex;
+  transform: scale(1.1);
+  align-items: center;
+  justify-content: top;
+  z-index:1;
+  font-weight:bold;
+  font-size: 2vmax;
+}
+
+.image-container img {
+  height: 95%;
+}
+
+.movie-title {
+  color:white;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 8vmin
+}
+
+form {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    right: 20px;
+    max-width:40vw;
+    height: 5vh;
+}
+#search {
+    align-self: center;
+}
+
+.container {
+  display:flex;
+  width:100vw;
+  justify-content: space-between;
+  align-self: center;
+  align-items:center;
+}
+
+@media screen and (max-width: 800px) {
+  .nav-links {
+    display: none;
+  }
+  form {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
+    align-items: center;
+    justify-content: space-evenly;
+    width: 80vw;
+    max-width: none;
+  }
+}

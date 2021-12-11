@@ -1,0 +1,92 @@
+{
+  "recent": [
+    {
+      "name": "Once Upon a Time... in Hollywood",
+      "image": "src/images/movies/onceuponatime.jpg",
+      "info": "",
+      "link": "src/sample.mp4"
+    },
+    {
+      "name": "Parasite",
+      "image": "src/images/movies/parasite.jpg",
+      "info": "",
+      "link": "src/video2.html"
+    },
+    {
+      "name": "Prisoners",
+      "image": "src/images/movies/prisoners.jpg",
+      "info": "",
+      "link": "prisoners"
+    },
+    {
+      "name": "Persona",
+      "image": "https://s3.amazonaws.com/criterion-production/films/d5c135c95f58e74e2ee28cb92659bafd/DoD5SlisIFjKyi0zucupnwj2B3ADGy_large.jpg",
+      "info": "",
+      "link": "persona"
+    },
+    {
+      "name": "Fallen Angels",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzI0MzQ3M15BMl5BanBnXkFtZTcwMzA0MDMzNA@@._V1_.jpg",
+      "info": "",
+      "link": "angels"
+    },
+    {
+      "name": "Chungking Express",
+      "image": "https://s3.amazonaws.com/criterion-production/films/9c3df80b84fb6e0e7f3ef692cb6ff579/zLMh5Bdp1x7ZdMgkD776ew5Qsh9iRC_original.jpg",
+      "info": "",
+      "link": "https://drive.google.com/file/d/1ttWdZBVH8q6Bu_vvdcWhdCcZsPauj9IP/view?usp=sharing"
+    }
+  ],
+  "trending": [
+    {
+      "name": "Titane",
+      "image": "src/images/movies/titane.jpg",
+      "info": "",
+      "link": "titane"
+    },
+    {
+      "name": "Spencer",
+      "image": "src/images/movies/spencer.jpg",
+      "info": "",
+      "link": "https://drive.google.com/file/d/1tLTdc2bt4AXOMjBdgynkjO1O8j4HCZCs/view?usp=sharing"
+    },
+    {
+      "name": "Don't Look Up",
+      "image": "src/images/movies/dontlookup.jpg",
+      "info": "",
+      "link": "dontlookup"
+    },
+    {
+      "name": "Dune",
+      "image": "src/images/movies/dune.jpg",
+      "info": "",
+      "link": "dune"
+    }
+  ],
+  "most-liked": [
+    {
+      "name": "Dune",
+      "image": "src/images/movies/dune.jpg",
+      "info": "",
+      "link": "dune"
+    },
+    {
+      "name": "Don't Look Up",
+      "image": "src/images/movies/dontlookup.jpg",
+      "info": "",
+      "link": "dontlookup"
+    },
+    {
+      "name": "Titane",
+      "image": "src/images/movies/titane.jpg",
+      "info": "",
+      "link": "titane"
+    },
+    {
+      "name": "Spencer",
+      "image": "src/images/movies/spencer.jpg",
+      "info": "",
+      "link": "Spencer"
+    }
+  ]
+}
