@@ -3,32 +3,32 @@
     {
       "name": "Once Upon a Time... in Hollywood",
       "image": "src/images/movies/onceuponatime.jpg",
-      "info": "",
-      "link": "src/sample.mp4"
+      "info": "The uprising of Rick Dalton, a TV star in Hollywood",
+      "link": "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Parasite",
       "image": "src/images/movies/parasite.jpg",
       "info": "",
-      "link": "src/video2.html"
+      "link": "https://www.imdb.com/title/tt6751668/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Prisoners",
       "image": "src/images/movies/prisoners.jpg",
       "info": "",
-      "link": "prisoners"
+      "link": "https://www.imdb.com/title/tt1392214/?ref_=fn_al_tt_1"
     },
     {
       "name": "Persona",
       "image": "https://s3.amazonaws.com/criterion-production/films/d5c135c95f58e74e2ee28cb92659bafd/DoD5SlisIFjKyi0zucupnwj2B3ADGy_large.jpg",
       "info": "",
-      "link": "persona"
+      "link": "https://www.imdb.com/title/tt0060827/?ref_=nv_sr_srsg_2"
     },
     {
       "name": "Fallen Angels",
       "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzI0MzQ3M15BMl5BanBnXkFtZTcwMzA0MDMzNA@@._V1_.jpg",
       "info": "",
-      "link": "angels"
+      "link": "https://www.imdb.com/title/tt0112913/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Chungking Express",
@@ -42,7 +42,7 @@
       "name": "Titane",
       "image": "src/images/movies/titane.jpg",
       "info": "",
-      "link": "titane"
+      "link": "https://www.imdb.com/title/tt10944760/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Spencer",
@@ -54,13 +54,13 @@
       "name": "Don't Look Up",
       "image": "src/images/movies/dontlookup.jpg",
       "info": "",
-      "link": "dontlookup"
+      "link": "https://www.imdb.com/title/tt11286314/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Dune",
       "image": "src/images/movies/dune.jpg",
       "info": "",
-      "link": "dune"
+      "link": "https://www.imdb.com/title/tt1160419/?ref_=nv_sr_srsg_0"
     }
   ],
   "most-liked": [
@@ -68,25 +68,25 @@
       "name": "Dune",
       "image": "src/images/movies/dune.jpg",
       "info": "",
-      "link": "dune"
+      "link": "https://www.imdb.com/title/tt1160419/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Don't Look Up",
       "image": "src/images/movies/dontlookup.jpg",
       "info": "",
-      "link": "dontlookup"
+      "link": "https://www.imdb.com/title/tt11286314/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Titane",
       "image": "src/images/movies/titane.jpg",
       "info": "",
-      "link": "titane"
+      "link": "https://www.imdb.com/title/tt10944760/?ref_=nv_sr_srsg_0"
     },
     {
       "name": "Spencer",
       "image": "src/images/movies/spencer.jpg",
       "info": "",
-      "link": "Spencer"
+      "link": "https://drive.google.com/file/d/1tLTdc2bt4AXOMjBdgynkjO1O8j4HCZCs/view?usp=sharing"
     }
   ]
 }
